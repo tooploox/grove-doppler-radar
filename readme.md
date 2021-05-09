@@ -4,7 +4,7 @@
 Python version of the library for communication with the Grove Doppler Radar is based on the BGT24LTR11. It's a simple continuous wave doppler radar capable of movement detection, speed measurement and direction of movement detection. More details and resources can be found in the official [product wiki](https://wiki.seeedstudio.com/Grove-Doppler-Radar/).
 
 ## Documentation
-The documentation is available here: https://readthedocs.org/projects/grove-doppler-radar/
+The documentation is available here: https://grove-doppler-radar.readthedocs.io/en/latest/
 
 ## Installation
 While in this directory run:  
